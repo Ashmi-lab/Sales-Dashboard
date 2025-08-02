@@ -1,4 +1,5 @@
 # 📊 Sales Dashboard – Excel & Power BI
+![Dashboard Banner] (https://github.com/Ashmi-lab/Sales-Dashboard/blob/5f10e84691c23902c79bdddef57c009d1e1dd324/salesdashboard-ezgif.com-video-to-gif-converter.gif)
 
 ## 📝 Project Overview
 
